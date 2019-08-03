@@ -2,7 +2,7 @@
     <footer>
         <div class="container">
             <div class="kiri">
-                <img src="./../assets/img/footer.jpg" width="550px" alt="">
+                <img src="./../assets/img/footer.jpg" width="500px" alt="">
             </div>
             <div class="kanan">
                 <h2>Learn More About Us</h2>
@@ -13,24 +13,18 @@
     </footer>
 </template>
 <style lang="scss" scoped>
-footer{
-    background: #f7f7f7;
-}
 .container{
     display: flex;
-    align-content: center;
-    justify-content: center;
+    // align-content: center;
+    // justify-content: center;
 }
 .kanan{
     width: 600px;
     height: 200px;
     text-align: left;
+    padding: 80px;
     margin-top: 50px;
 
-    // display: flex;
-    // flex-direction: column;
-    // justify-content: center;
-    // flex-grow: 0;
 }
 
 </style>

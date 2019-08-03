@@ -39,7 +39,7 @@
 .gambar{
     width: 340px;
     height: 200px;
-    background: url(./../assets/img/laptop.jpg) center no-repeat;
+    background: url(./../assets/img/laptop.webp) center no-repeat;
     background-size: cover;
 }
 h1{

@@ -4,6 +4,7 @@
     <Hero />
     <Products />
     <Footer />
+    <Login/>
   </div>
 </template>
 
@@ -12,13 +13,15 @@
 import Hero from "@/components/Hero.vue";
 import Products from "@/section/Products.vue";
 import Footer from "@/section/Footer.vue";
+import Login from "@/components/Login.vue";
 
 export default {
   name: "home",
   components: {
     Hero,
     Products,
-    Footer
+    Footer,
+    Login
   }
 };
 </script>

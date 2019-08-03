@@ -30,11 +30,12 @@
 }
 .kiri p {
     font-size: 16px;
-    color: #999;
+    // color: #999;
     margin: 30px 0;
 }
 .kanan img{
-    width: 700px;
+    width: 500px;
+    margin-left: 100px;
 }
 button{
     margin-right: 30px; 
